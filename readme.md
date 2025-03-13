@@ -1,4 +1,4 @@
-s# Weather CLI 🌤️
+# Weather CLI 🌤️
 
 A simple command-line interface (CLI) application written in Go that provides current weather information for any city around the world.
 
@@ -70,8 +70,6 @@ This project uses the following external Go packages:
 ## API
 
 This application uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch weather data. You'll need to sign up for a free API key to use this application.
-
-
 
 ## Acknowledgments
 
